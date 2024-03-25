@@ -7,8 +7,8 @@
   <a>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghdkim&theme=radical" alt="My GitHub Profile Summary"/>
 </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=ghdkim&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghdkim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="195" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghdkim&count_private=true&show_icons=true&theme=radical" height="140" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghdkim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph" />
 </div>
 
 ###

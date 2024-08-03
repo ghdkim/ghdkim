@@ -1,5 +1,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ghdkim&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<br clear="both">
+<div align="center">
+<!-- Replace the URL below with the direct link to your snake game animation SVG -->
+<img src="https://miro.medium.com/v2/resize:fit:1000/1*hyqJzpqML8_OsEir6KCahw.gif" alt="Homer Simpson animation" />
+</div>
+
 <h1 align="center">Hey 👋 My name is Derek. Welcome to my Github profile!</h1>
 <h4 align="center"> UCL Neuroscience graduate transitioning to AI and Software Engineering </h4> 
 
@@ -75,8 +81,4 @@
 
 ###
 
-<br clear="both">
-<div align="center">
-<!-- Replace the URL below with the direct link to your snake game animation SVG -->
-<img src="https://miro.medium.com/v2/resize:fit:1000/1*hyqJzpqML8_OsEir6KCahw.gif" alt="Homer Simpson animation" />
-</div>
+

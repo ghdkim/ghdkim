@@ -10,6 +10,8 @@
 <!-- Replace the URL below with the direct link to your snake game animation SVG -->
 <img src="https://miro.medium.com/v2/resize:fit:1000/1*hyqJzpqML8_OsEir6KCahw.gif" alt="Homer Simpson animation" />
 </div>
+
+
 ## Languages and Tools 
 <div>
 

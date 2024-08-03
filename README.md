@@ -1,7 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ghdkim&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center">Hey 👋 My name is Derek. Welcome to my Github profile!</h1>
-<h4 align="center"> UCL Neuroscience graduate transitioning to ML and AI </h4> 
+<h4 align="center"> UCL Neuroscience graduate transitioning to AI and Software Engineering </h4> 
 
 
 ## Languages and Tools 
